@@ -1,0 +1,8 @@
+Generate a viral, high-contrast, attention-grabbing YouTube thumbnail (16:9 aspect ratio) for a developer tech video.
+
+Visual layout:
+- Left side: A developer looking stressed and overwhelmed in front of a dark terminal screen covered in bright red error messages: "✖ Command Failed: export not recognized" and "✖ Port 5432 already in use".
+- Right side: A clean, sleek cyberpunk-style AI agent hologram interface with glowing cyan and neon magenta neural memory nodes, displaying a green checkmark "[SUCCESS]" and clean code syntax "$env:DB_PORT='5433'; pnpm test".
+- Bold, high-impact text in the center: "AI AGENTS KEEP FORGETTING..." with glowing subtitle "...UNTIL WE GAVE THEM MEMORY".
+- Color palette: Deep dark mode background (#0d1117), vibrant neon cyan (#00f2fe), glowing magenta (#ff007f), and crisp terminal green.
+- Photorealistic lighting, sharp detail, cinematic depth of field, modern tech aesthetic.

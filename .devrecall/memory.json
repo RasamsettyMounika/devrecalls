@@ -1,0 +1,25 @@
+{
+  "bank_id": "devrecall-bank",
+  "memories": [
+    {
+      "id": "mem_1",
+      "content": "Always use port 5433 for Postgres on this machine",
+      "context": null,
+      "tags": [
+        "manual",
+        "dev"
+      ],
+      "timestamp": "2026-09-28T16:40:48.084920+00:00"
+    },
+    {
+      "id": "mem_2",
+      "content": "Always use uv for Python package management instead of pip",
+      "context": null,
+      "tags": [
+        "manual",
+        "dev"
+      ],
+      "timestamp": "2026-09-28T17:00:29.531602+00:00"
+    }
+  ]
+}

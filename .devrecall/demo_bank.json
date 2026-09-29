@@ -1,0 +1,38 @@
+{
+  "bank_id": "devrecall-bank",
+  "memories": [
+    {
+      "id": "mem_1",
+      "content": "Host environment: Windows 11 using PowerShell 7. Always use $env:KEY='val' for environment variables.",
+      "context": null,
+      "tags": [
+        "environment",
+        "powershell",
+        "windows"
+      ],
+      "timestamp": "2026-09-28T20:19:06.188438+00:00"
+    },
+    {
+      "id": "mem_2",
+      "content": "Package manager: Repository exclusively uses pnpm. Never invoke npm run or yarn.",
+      "context": null,
+      "tags": [
+        "package-manager",
+        "pnpm",
+        "node"
+      ],
+      "timestamp": "2026-09-28T20:19:06.696380+00:00"
+    },
+    {
+      "id": "mem_3",
+      "content": "Postgres port collision: Host port 5432 is occupied by local service. Docker Postgres must bind to host 5433.",
+      "context": null,
+      "tags": [
+        "database",
+        "postgres",
+        "ports"
+      ],
+      "timestamp": "2026-09-28T20:19:07.201394+00:00"
+    }
+  ]
+}
